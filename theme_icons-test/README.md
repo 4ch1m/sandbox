@@ -62,6 +62,6 @@ Both icons are **black**.
 - Compose window: Correct. :heavy_check_mark:
 
 ## The gist
-There seems to be a bug with the theme-handling in Thunderbirds compose-window toolbar.
+There seems to be a bug with the theme-handling in Thunderbird's compose-window toolbar.
 
 Hope this example helps to fix the issue.
