@@ -51,7 +51,7 @@ Both icons are **blue**.
 Both icons are **white**.
 ### Actual
 - Main window: Correct. :heavy_check_mark:
-- Compose window: Wrong! :x: (show the **dark** one)
+- Compose window: Wrong! :x: (shows the **black** one instead)
 
 ## Light Theme (TB built-in)
 ![theme_light](_screenshots/theme_light.png)
