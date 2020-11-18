@@ -1,6 +1,8 @@
 # Thunderbird Add-Ons - Using images in options-tab breaks copy/paste funtionality in ALL text-fields
 > Tested with a fresh install of Thunderbird 78.5.0
 
+=> [Bugzilla](https://bugzilla.mozilla.org/show_bug.cgi?id=1678057)
+
 I know, the description sounds weird... but it's easy to reproduce. :-D
 
 Just a simple manifest [manifest.json](manifest) with a **dedicated options-page**:

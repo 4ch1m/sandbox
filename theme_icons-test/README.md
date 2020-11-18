@@ -1,6 +1,8 @@
 # Thunderbird Add-Ons - "Theme Icons" not working in compose window
 > Tested with a fresh install of Thunderbird 78.3.2
 
+=> [Bugzilla](https://bugzilla.mozilla.org/show_bug.cgi?id=1670483)
+
 ## NOTE:
 There is both a "browser action" _AND_ a "compose action" in this minimalistic demo!
 

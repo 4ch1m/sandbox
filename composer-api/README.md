@@ -1,6 +1,8 @@
 # Thunderbird MailExtension API - Bug in 'browser.compose.setComposeDetails'
 > Tested with a fresh install of Thunderbird 78.3.3
 
+=> [Bugzilla](https://bugzilla.mozilla.org/show_bug.cgi?id=1672407)
+
 ## Note
 This is a specific bug that only occurs when running Thunderbird on **WINDOWS**; Linux works fine.
 
