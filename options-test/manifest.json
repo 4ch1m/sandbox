@@ -1,0 +1,11 @@
+{
+  "manifest_version": 2,
+  "name": "optionstest",
+  "description": "options test",
+  "version": "1.0.0",
+  "options_ui": {
+    "open_in_tab": true,
+    "page": "options.html"
+  }
+}
+
