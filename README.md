@@ -4,3 +4,7 @@
 ! text in orange
 # text in gray
 ```
+
+``
+    | [mylink](#link) |
+``
